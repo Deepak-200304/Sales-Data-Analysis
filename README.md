@@ -1,9 +1,9 @@
 # Sales-Data-Analysis
 
-# Overview
+## Overview
 This project analyzes a simple sales dataset using Python and pandas to extract useful business insights.
 
-# Tools Used
+## Tools Used
 -Python
 
 -Pandas
